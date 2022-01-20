@@ -1,2 +1,2 @@
-Hello!
+Hello good people!
 This is a GIT revision project.
